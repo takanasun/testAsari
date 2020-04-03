@@ -1,0 +1,9 @@
+C:\Users\kana.takahashi\source\repos\testAsari\testAsari\bin\Debug\testAsari.exe.config
+C:\Users\kana.takahashi\source\repos\testAsari\testAsari\bin\Debug\testAsari.exe
+C:\Users\kana.takahashi\source\repos\testAsari\testAsari\bin\Debug\testAsari.pdb
+C:\Users\kana.takahashi\source\repos\testAsari\testAsari\obj\Debug\testAsari.csprojAssemblyReference.cache
+C:\Users\kana.takahashi\source\repos\testAsari\testAsari\obj\Debug\testAsari.Form1.resources
+C:\Users\kana.takahashi\source\repos\testAsari\testAsari\obj\Debug\testAsari.Properties.Resources.resources
+C:\Users\kana.takahashi\source\repos\testAsari\testAsari\obj\Debug\testAsari.csproj.GenerateResource.cache
+C:\Users\kana.takahashi\source\repos\testAsari\testAsari\obj\Debug\testAsari.exe
+C:\Users\kana.takahashi\source\repos\testAsari\testAsari\obj\Debug\testAsari.pdb
